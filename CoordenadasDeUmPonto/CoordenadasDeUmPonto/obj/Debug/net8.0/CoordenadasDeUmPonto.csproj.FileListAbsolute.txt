@@ -1,0 +1,14 @@
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net8.0\CoordenadasDeUmPonto.exe
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net8.0\CoordenadasDeUmPonto.deps.json
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net8.0\CoordenadasDeUmPonto.runtimeconfig.json
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net8.0\CoordenadasDeUmPonto.dll
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\bin\Debug\net8.0\CoordenadasDeUmPonto.pdb
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\CoordenadasDeUmPonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\CoordenadasDeUmPonto.AssemblyInfoInputs.cache
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\CoordenadasDeUmPonto.AssemblyInfo.cs
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\CoordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\CoordenadasDeUmPonto.dll
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\refint\CoordenadasDeUmPonto.dll
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\CoordenadasDeUmPonto.pdb
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\CoordenadasDeUmPonto.genruntimeconfig.cache
+C:\Temp\Projetos\CoordenadasDeUmPonto\CoordenadasDeUmPonto\obj\Debug\net8.0\ref\CoordenadasDeUmPonto.dll

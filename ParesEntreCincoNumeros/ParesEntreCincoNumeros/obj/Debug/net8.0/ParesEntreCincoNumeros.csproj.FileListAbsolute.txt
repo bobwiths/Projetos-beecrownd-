@@ -1,0 +1,14 @@
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\bin\Debug\net8.0\ParesEntreCincoNumeros.exe
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\bin\Debug\net8.0\ParesEntreCincoNumeros.deps.json
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\bin\Debug\net8.0\ParesEntreCincoNumeros.runtimeconfig.json
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\bin\Debug\net8.0\ParesEntreCincoNumeros.dll
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\bin\Debug\net8.0\ParesEntreCincoNumeros.pdb
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ParesEntreCincoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ParesEntreCincoNumeros.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ParesEntreCincoNumeros.AssemblyInfo.cs
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ParesEntreCincoNumeros.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ParesEntreCincoNumeros.dll
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\refint\ParesEntreCincoNumeros.dll
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ParesEntreCincoNumeros.pdb
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ParesEntreCincoNumeros.genruntimeconfig.cache
+C:\Temp\Projetos\ParesEntreCincoNumeros\ParesEntreCincoNumeros\obj\Debug\net8.0\ref\ParesEntreCincoNumeros.dll

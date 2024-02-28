@@ -1,0 +1,14 @@
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.AssemblyInfoInputs.cache
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.AssemblyInfo.cs
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.exe
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.deps.json
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.runtimeconfig.json
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.dll
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\bin\Debug\net8.0\CalculoSimples.pdb
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.dll
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\refint\CalculoSimples.dll
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.pdb
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\CalculoSimples.genruntimeconfig.cache
+C:\Temp\Projetos\CalculoSimples\CalculoSimples\obj\Debug\net8.0\ref\CalculoSimples.dll

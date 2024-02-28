@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Media01\Media01\bin\Debug\net8.0\Media01.exe
+C:\Temp\Projetos\Media01\Media01\bin\Debug\net8.0\Media01.deps.json
+C:\Temp\Projetos\Media01\Media01\bin\Debug\net8.0\Media01.runtimeconfig.json
+C:\Temp\Projetos\Media01\Media01\bin\Debug\net8.0\Media01.dll
+C:\Temp\Projetos\Media01\Media01\bin\Debug\net8.0\Media01.pdb
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\Media01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\Media01.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\Media01.AssemblyInfo.cs
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\Media01.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\Media01.dll
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\refint\Media01.dll
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\Media01.pdb
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\Media01.genruntimeconfig.cache
+C:\Temp\Projetos\Media01\Media01\obj\Debug\net8.0\ref\Media01.dll

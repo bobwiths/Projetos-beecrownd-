@@ -1,0 +1,14 @@
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.exe
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.deps.json
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.runtimeconfig.json
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.dll
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\bin\Debug\net8.0\EstruturaSequencial.pdb
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.AssemblyInfoInputs.cache
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.AssemblyInfo.cs
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.dll
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\refint\EstruturaSequencial.dll
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.pdb
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\EstruturaSequencial.genruntimeconfig.cache
+C:\Temp\Projetos\EstruturaSequencial\EstruturaSequencial\obj\Debug\net8.0\ref\EstruturaSequencial.dll

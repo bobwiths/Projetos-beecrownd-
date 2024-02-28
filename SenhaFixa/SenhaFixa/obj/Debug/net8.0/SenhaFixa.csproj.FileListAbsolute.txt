@@ -1,0 +1,14 @@
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.exe
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.deps.json
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.runtimeconfig.json
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.dll
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\bin\Debug\net8.0\SenhaFixa.pdb
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.AssemblyInfoInputs.cache
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.AssemblyInfo.cs
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.dll
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\refint\SenhaFixa.dll
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.pdb
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\SenhaFixa.genruntimeconfig.cache
+C:\Temp\Projetos\SenhaFixa\SenhaFixa\obj\Debug\net8.0\ref\SenhaFixa.dll

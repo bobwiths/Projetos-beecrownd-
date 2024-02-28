@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Cedulas\Cedulas\bin\Debug\net8.0\Cedulas.exe
+C:\Temp\Projetos\Cedulas\Cedulas\bin\Debug\net8.0\Cedulas.deps.json
+C:\Temp\Projetos\Cedulas\Cedulas\bin\Debug\net8.0\Cedulas.runtimeconfig.json
+C:\Temp\Projetos\Cedulas\Cedulas\bin\Debug\net8.0\Cedulas.dll
+C:\Temp\Projetos\Cedulas\Cedulas\bin\Debug\net8.0\Cedulas.pdb
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\Cedulas.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\Cedulas.AssemblyInfo.cs
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\Cedulas.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\Cedulas.dll
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\refint\Cedulas.dll
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\Cedulas.pdb
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\Cedulas.genruntimeconfig.cache
+C:\Temp\Projetos\Cedulas\Cedulas\obj\Debug\net8.0\ref\Cedulas.dll

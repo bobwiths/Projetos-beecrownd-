@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\Area.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\Area.AssemblyInfo.cs
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\Area.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Area\Area\bin\Debug\net8.0\Area.exe
+C:\Temp\Projetos\Area\Area\bin\Debug\net8.0\Area.deps.json
+C:\Temp\Projetos\Area\Area\bin\Debug\net8.0\Area.runtimeconfig.json
+C:\Temp\Projetos\Area\Area\bin\Debug\net8.0\Area.dll
+C:\Temp\Projetos\Area\Area\bin\Debug\net8.0\Area.pdb
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\Area.dll
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\refint\Area.dll
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\Area.pdb
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\Area.genruntimeconfig.cache
+C:\Temp\Projetos\Area\Area\obj\Debug\net8.0\ref\Area.dll

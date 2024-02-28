@@ -1,0 +1,14 @@
+C:\Temp\Projetos\SortSimples\SortSimples\bin\Debug\net8.0\SortSimples.exe
+C:\Temp\Projetos\SortSimples\SortSimples\bin\Debug\net8.0\SortSimples.deps.json
+C:\Temp\Projetos\SortSimples\SortSimples\bin\Debug\net8.0\SortSimples.runtimeconfig.json
+C:\Temp\Projetos\SortSimples\SortSimples\bin\Debug\net8.0\SortSimples.dll
+C:\Temp\Projetos\SortSimples\SortSimples\bin\Debug\net8.0\SortSimples.pdb
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\SortSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\SortSimples.AssemblyInfoInputs.cache
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\SortSimples.AssemblyInfo.cs
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\SortSimples.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\SortSimples.dll
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\refint\SortSimples.dll
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\SortSimples.pdb
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\SortSimples.genruntimeconfig.cache
+C:\Temp\Projetos\SortSimples\SortSimples\obj\Debug\net8.0\ref\SortSimples.dll

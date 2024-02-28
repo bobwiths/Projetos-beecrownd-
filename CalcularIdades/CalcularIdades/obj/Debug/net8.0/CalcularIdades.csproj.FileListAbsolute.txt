@@ -1,0 +1,14 @@
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\bin\Debug\net8.0\CalcularIdades.exe
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\bin\Debug\net8.0\CalcularIdades.deps.json
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\bin\Debug\net8.0\CalcularIdades.runtimeconfig.json
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\bin\Debug\net8.0\CalcularIdades.dll
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\bin\Debug\net8.0\CalcularIdades.pdb
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\CalcularIdades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\CalcularIdades.AssemblyInfoInputs.cache
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\CalcularIdades.AssemblyInfo.cs
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\CalcularIdades.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\CalcularIdades.dll
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\refint\CalcularIdades.dll
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\CalcularIdades.pdb
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\CalcularIdades.genruntimeconfig.cache
+C:\Temp\Projetos\CalcularIdades\CalcularIdades\obj\Debug\net8.0\ref\CalcularIdades.dll

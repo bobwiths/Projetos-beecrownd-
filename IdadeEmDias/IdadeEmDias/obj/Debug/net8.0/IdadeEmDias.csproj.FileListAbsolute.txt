@@ -1,0 +1,14 @@
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.exe
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.deps.json
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.runtimeconfig.json
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.dll
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.pdb
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.AssemblyInfoInputs.cache
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.AssemblyInfo.cs
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.dll
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\refint\IdadeEmDias.dll
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.pdb
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.genruntimeconfig.cache
+C:\Temp\Projetos\IdadeEmDias\IdadeEmDias\obj\Debug\net8.0\ref\IdadeEmDias.dll

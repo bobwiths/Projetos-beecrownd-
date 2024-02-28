@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Animal\Animal\bin\Debug\net8.0\Animal.exe
+C:\Temp\Projetos\Animal\Animal\bin\Debug\net8.0\Animal.deps.json
+C:\Temp\Projetos\Animal\Animal\bin\Debug\net8.0\Animal.runtimeconfig.json
+C:\Temp\Projetos\Animal\Animal\bin\Debug\net8.0\Animal.dll
+C:\Temp\Projetos\Animal\Animal\bin\Debug\net8.0\Animal.pdb
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\Animal.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\Animal.AssemblyInfo.cs
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\Animal.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\Animal.dll
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\refint\Animal.dll
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\Animal.pdb
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\Animal.genruntimeconfig.cache
+C:\Temp\Projetos\Animal\Animal\obj\Debug\net8.0\ref\Animal.dll

@@ -1,0 +1,14 @@
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\TelefoniaProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\TelefoniaProblema.AssemblyInfoInputs.cache
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\TelefoniaProblema.AssemblyInfo.cs
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\TelefoniaProblema.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\bin\Debug\net8.0\TelefoniaProblema.exe
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\bin\Debug\net8.0\TelefoniaProblema.deps.json
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\bin\Debug\net8.0\TelefoniaProblema.runtimeconfig.json
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\bin\Debug\net8.0\TelefoniaProblema.dll
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\bin\Debug\net8.0\TelefoniaProblema.pdb
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\TelefoniaProblema.dll
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\refint\TelefoniaProblema.dll
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\TelefoniaProblema.pdb
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\TelefoniaProblema.genruntimeconfig.cache
+C:\Temp\Projetos\TelefoniaProblema\TelefoniaProblema\obj\Debug\net8.0\ref\TelefoniaProblema.dll

@@ -1,0 +1,14 @@
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net8.0\DistanciaEntreDoisPontos.exe
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net8.0\DistanciaEntreDoisPontos.deps.json
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net8.0\DistanciaEntreDoisPontos.runtimeconfig.json
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net8.0\DistanciaEntreDoisPontos.dll
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net8.0\DistanciaEntreDoisPontos.pdb
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\DistanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\DistanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\DistanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\DistanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\DistanciaEntreDoisPontos.dll
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\refint\DistanciaEntreDoisPontos.dll
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\DistanciaEntreDoisPontos.pdb
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\DistanciaEntreDoisPontos.genruntimeconfig.cache
+C:\Temp\Projetos\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net8.0\ref\DistanciaEntreDoisPontos.dll

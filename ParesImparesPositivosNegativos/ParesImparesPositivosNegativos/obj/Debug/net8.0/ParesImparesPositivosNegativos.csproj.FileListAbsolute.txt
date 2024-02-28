@@ -1,0 +1,14 @@
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\net8.0\ParesImparesPositivosNegativos.exe
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\net8.0\ParesImparesPositivosNegativos.deps.json
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\net8.0\ParesImparesPositivosNegativos.runtimeconfig.json
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\net8.0\ParesImparesPositivosNegativos.dll
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\bin\Debug\net8.0\ParesImparesPositivosNegativos.pdb
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ParesImparesPositivosNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ParesImparesPositivosNegativos.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ParesImparesPositivosNegativos.AssemblyInfo.cs
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ParesImparesPositivosNegativos.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ParesImparesPositivosNegativos.dll
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\refint\ParesImparesPositivosNegativos.dll
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ParesImparesPositivosNegativos.pdb
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ParesImparesPositivosNegativos.genruntimeconfig.cache
+C:\Temp\Projetos\ParesImparesPositivosNegativos\ParesImparesPositivosNegativos\obj\Debug\net8.0\ref\ParesImparesPositivosNegativos.dll

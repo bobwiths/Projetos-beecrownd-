@@ -1,0 +1,14 @@
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ProdutoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ProdutoSimples.AssemblyInfoInputs.cache
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ProdutoSimples.AssemblyInfo.cs
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ProdutoSimples.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\bin\Debug\net8.0\ProdutoSimples.exe
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\bin\Debug\net8.0\ProdutoSimples.deps.json
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\bin\Debug\net8.0\ProdutoSimples.runtimeconfig.json
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\bin\Debug\net8.0\ProdutoSimples.dll
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\bin\Debug\net8.0\ProdutoSimples.pdb
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ProdutoSimples.dll
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\refint\ProdutoSimples.dll
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ProdutoSimples.pdb
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ProdutoSimples.genruntimeconfig.cache
+C:\Temp\Projetos\ProdutoSimples\ProdutoSimples\obj\Debug\net8.0\ref\ProdutoSimples.dll

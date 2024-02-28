@@ -1,0 +1,14 @@
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.AssemblyInfoInputs.cache
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.AssemblyInfo.cs
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.exe
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.deps.json
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.runtimeconfig.json
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.dll
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net8.0\FormulaDeBhaskara.pdb
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.dll
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\refint\FormulaDeBhaskara.dll
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.pdb
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\FormulaDeBhaskara.genruntimeconfig.cache
+C:\Temp\Projetos\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net8.0\ref\FormulaDeBhaskara.dll

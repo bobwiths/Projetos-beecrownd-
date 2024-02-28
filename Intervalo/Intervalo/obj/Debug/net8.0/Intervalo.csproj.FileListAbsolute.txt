@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\Intervalo.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\Intervalo.AssemblyInfo.cs
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\Intervalo.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Intervalo\Intervalo\bin\Debug\net8.0\Intervalo.exe
+C:\Temp\Projetos\Intervalo\Intervalo\bin\Debug\net8.0\Intervalo.deps.json
+C:\Temp\Projetos\Intervalo\Intervalo\bin\Debug\net8.0\Intervalo.runtimeconfig.json
+C:\Temp\Projetos\Intervalo\Intervalo\bin\Debug\net8.0\Intervalo.dll
+C:\Temp\Projetos\Intervalo\Intervalo\bin\Debug\net8.0\Intervalo.pdb
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\Intervalo.dll
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\refint\Intervalo.dll
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\Intervalo.pdb
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\Intervalo.genruntimeconfig.cache
+C:\Temp\Projetos\Intervalo\Intervalo\obj\Debug\net8.0\ref\Intervalo.dll

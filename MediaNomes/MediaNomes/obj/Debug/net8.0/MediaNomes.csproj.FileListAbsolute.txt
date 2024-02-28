@@ -1,0 +1,14 @@
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\MediaNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\MediaNomes.AssemblyInfoInputs.cache
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\MediaNomes.AssemblyInfo.cs
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\MediaNomes.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\MediaNomes\MediaNomes\bin\Debug\net8.0\MediaNomes.exe
+C:\Temp\Projetos\MediaNomes\MediaNomes\bin\Debug\net8.0\MediaNomes.deps.json
+C:\Temp\Projetos\MediaNomes\MediaNomes\bin\Debug\net8.0\MediaNomes.runtimeconfig.json
+C:\Temp\Projetos\MediaNomes\MediaNomes\bin\Debug\net8.0\MediaNomes.dll
+C:\Temp\Projetos\MediaNomes\MediaNomes\bin\Debug\net8.0\MediaNomes.pdb
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\MediaNomes.dll
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\refint\MediaNomes.dll
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\MediaNomes.pdb
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\MediaNomes.genruntimeconfig.cache
+C:\Temp\Projetos\MediaNomes\MediaNomes\obj\Debug\net8.0\ref\MediaNomes.dll

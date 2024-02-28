@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\Media3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\Media3.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\Media3.AssemblyInfo.cs
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\Media3.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Media3\Media3\bin\Debug\net8.0\Media3.exe
+C:\Temp\Projetos\Media3\Media3\bin\Debug\net8.0\Media3.deps.json
+C:\Temp\Projetos\Media3\Media3\bin\Debug\net8.0\Media3.runtimeconfig.json
+C:\Temp\Projetos\Media3\Media3\bin\Debug\net8.0\Media3.dll
+C:\Temp\Projetos\Media3\Media3\bin\Debug\net8.0\Media3.pdb
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\Media3.dll
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\refint\Media3.dll
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\Media3.pdb
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\Media3.genruntimeconfig.cache
+C:\Temp\Projetos\Media3\Media3\obj\Debug\net8.0\ref\Media3.dll

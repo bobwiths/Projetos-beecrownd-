@@ -1,0 +1,14 @@
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\bin\Debug\net8.0\NumeroMenor.exe
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\bin\Debug\net8.0\NumeroMenor.deps.json
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\bin\Debug\net8.0\NumeroMenor.runtimeconfig.json
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\bin\Debug\net8.0\NumeroMenor.dll
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\bin\Debug\net8.0\NumeroMenor.pdb
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\NumeroMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\NumeroMenor.AssemblyInfoInputs.cache
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\NumeroMenor.AssemblyInfo.cs
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\NumeroMenor.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\NumeroMenor.dll
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\refint\NumeroMenor.dll
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\NumeroMenor.pdb
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\NumeroMenor.genruntimeconfig.cache
+C:\Temp\Projetos\NumeroMenor\NumeroMenor\obj\Debug\net8.0\ref\NumeroMenor.dll

@@ -1,0 +1,14 @@
+C:\Temp\Projetos\salario\salario\bin\Debug\net8.0\salario.exe
+C:\Temp\Projetos\salario\salario\bin\Debug\net8.0\salario.deps.json
+C:\Temp\Projetos\salario\salario\bin\Debug\net8.0\salario.runtimeconfig.json
+C:\Temp\Projetos\salario\salario\bin\Debug\net8.0\salario.dll
+C:\Temp\Projetos\salario\salario\bin\Debug\net8.0\salario.pdb
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\salario.AssemblyInfoInputs.cache
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\salario.AssemblyInfo.cs
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\salario.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\salario.dll
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\refint\salario.dll
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\salario.pdb
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\salario.genruntimeconfig.cache
+C:\Temp\Projetos\salario\salario\obj\Debug\net8.0\ref\salario.dll

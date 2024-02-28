@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Idades\Idades\bin\Debug\net8.0\Idades.exe
+C:\Temp\Projetos\Idades\Idades\bin\Debug\net8.0\Idades.deps.json
+C:\Temp\Projetos\Idades\Idades\bin\Debug\net8.0\Idades.runtimeconfig.json
+C:\Temp\Projetos\Idades\Idades\bin\Debug\net8.0\Idades.dll
+C:\Temp\Projetos\Idades\Idades\bin\Debug\net8.0\Idades.pdb
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\Idades.AssemblyInfo.cs
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\Idades.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\Idades.dll
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\refint\Idades.dll
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\Idades.pdb
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\Idades.genruntimeconfig.cache
+C:\Temp\Projetos\Idades\Idades\obj\Debug\net8.0\ref\Idades.dll

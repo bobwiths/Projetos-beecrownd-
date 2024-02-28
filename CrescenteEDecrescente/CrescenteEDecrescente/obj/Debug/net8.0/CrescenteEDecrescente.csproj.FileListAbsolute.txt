@@ -1,0 +1,14 @@
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net8.0\CrescenteEDecrescente.exe
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net8.0\CrescenteEDecrescente.deps.json
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net8.0\CrescenteEDecrescente.runtimeconfig.json
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net8.0\CrescenteEDecrescente.dll
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\bin\Debug\net8.0\CrescenteEDecrescente.pdb
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\CrescenteEDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\CrescenteEDecrescente.AssemblyInfoInputs.cache
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\CrescenteEDecrescente.AssemblyInfo.cs
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\CrescenteEDecrescente.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\CrescenteEDecrescente.dll
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\refint\CrescenteEDecrescente.dll
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\CrescenteEDecrescente.pdb
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\CrescenteEDecrescente.genruntimeconfig.cache
+C:\Temp\Projetos\CrescenteEDecrescente\CrescenteEDecrescente\obj\Debug\net8.0\ref\CrescenteEDecrescente.dll

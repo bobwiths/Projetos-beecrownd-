@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Media02\Media02\bin\Debug\net8.0\Media02.exe
+C:\Temp\Projetos\Media02\Media02\bin\Debug\net8.0\Media02.deps.json
+C:\Temp\Projetos\Media02\Media02\bin\Debug\net8.0\Media02.runtimeconfig.json
+C:\Temp\Projetos\Media02\Media02\bin\Debug\net8.0\Media02.dll
+C:\Temp\Projetos\Media02\Media02\bin\Debug\net8.0\Media02.pdb
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\Media02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\Media02.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\Media02.AssemblyInfo.cs
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\Media02.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\Media02.dll
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\refint\Media02.dll
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\Media02.pdb
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\Media02.genruntimeconfig.cache
+C:\Temp\Projetos\Media02\Media02\obj\Debug\net8.0\ref\Media02.dll

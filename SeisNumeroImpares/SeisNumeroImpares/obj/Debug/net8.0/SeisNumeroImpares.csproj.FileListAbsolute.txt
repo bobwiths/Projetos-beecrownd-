@@ -1,0 +1,14 @@
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\bin\Debug\net8.0\SeisNumeroImpares.exe
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\bin\Debug\net8.0\SeisNumeroImpares.deps.json
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\bin\Debug\net8.0\SeisNumeroImpares.runtimeconfig.json
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\bin\Debug\net8.0\SeisNumeroImpares.dll
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\bin\Debug\net8.0\SeisNumeroImpares.pdb
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\SeisNumeroImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\SeisNumeroImpares.AssemblyInfoInputs.cache
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\SeisNumeroImpares.AssemblyInfo.cs
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\SeisNumeroImpares.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\SeisNumeroImpares.dll
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\refint\SeisNumeroImpares.dll
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\SeisNumeroImpares.pdb
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\SeisNumeroImpares.genruntimeconfig.cache
+C:\Temp\Projetos\SeisNumeroImpares\SeisNumeroImpares\obj\Debug\net8.0\ref\SeisNumeroImpares.dll

@@ -1,0 +1,14 @@
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net8.0\TempoDeJogoComMinutos.exe
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net8.0\TempoDeJogoComMinutos.deps.json
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net8.0\TempoDeJogoComMinutos.runtimeconfig.json
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net8.0\TempoDeJogoComMinutos.dll
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\bin\Debug\net8.0\TempoDeJogoComMinutos.pdb
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\TempoDeJogoComMinutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\TempoDeJogoComMinutos.AssemblyInfoInputs.cache
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\TempoDeJogoComMinutos.AssemblyInfo.cs
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\TempoDeJogoComMinutos.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\TempoDeJogoComMinutos.dll
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\refint\TempoDeJogoComMinutos.dll
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\TempoDeJogoComMinutos.pdb
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\TempoDeJogoComMinutos.genruntimeconfig.cache
+C:\Temp\Projetos\TempoDeJogoComMinutos\TempoDeJogoComMinutos\obj\Debug\net8.0\ref\TempoDeJogoComMinutos.dll

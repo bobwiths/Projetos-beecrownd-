@@ -1,0 +1,14 @@
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\bin\Debug\net8.0\NotasAprovReprov.exe
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\bin\Debug\net8.0\NotasAprovReprov.deps.json
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\bin\Debug\net8.0\NotasAprovReprov.runtimeconfig.json
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\bin\Debug\net8.0\NotasAprovReprov.dll
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\bin\Debug\net8.0\NotasAprovReprov.pdb
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\NotasAprovReprov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\NotasAprovReprov.AssemblyInfoInputs.cache
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\NotasAprovReprov.AssemblyInfo.cs
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\NotasAprovReprov.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\NotasAprovReprov.dll
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\refint\NotasAprovReprov.dll
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\NotasAprovReprov.pdb
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\NotasAprovReprov.genruntimeconfig.cache
+C:\Temp\Projetos\NotasAprovReprov\NotasAprovReprov\obj\Debug\net8.0\ref\NotasAprovReprov.dll

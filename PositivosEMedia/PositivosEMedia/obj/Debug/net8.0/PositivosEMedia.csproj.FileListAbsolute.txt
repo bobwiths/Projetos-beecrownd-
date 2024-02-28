@@ -1,0 +1,14 @@
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\bin\Debug\net8.0\PositivosEMedia.exe
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\bin\Debug\net8.0\PositivosEMedia.deps.json
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\bin\Debug\net8.0\PositivosEMedia.runtimeconfig.json
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\bin\Debug\net8.0\PositivosEMedia.dll
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\bin\Debug\net8.0\PositivosEMedia.pdb
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\PositivosEMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\PositivosEMedia.AssemblyInfoInputs.cache
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\PositivosEMedia.AssemblyInfo.cs
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\PositivosEMedia.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\PositivosEMedia.dll
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\refint\PositivosEMedia.dll
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\PositivosEMedia.pdb
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\PositivosEMedia.genruntimeconfig.cache
+C:\Temp\Projetos\PositivosEMedia\PositivosEMedia\obj\Debug\net8.0\ref\PositivosEMedia.dll

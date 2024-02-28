@@ -1,0 +1,14 @@
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net8.0\SomaDeParesConsecutivos.exe
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net8.0\SomaDeParesConsecutivos.deps.json
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net8.0\SomaDeParesConsecutivos.runtimeconfig.json
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net8.0\SomaDeParesConsecutivos.dll
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net8.0\SomaDeParesConsecutivos.pdb
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\SomaDeParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\SomaDeParesConsecutivos.AssemblyInfoInputs.cache
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\SomaDeParesConsecutivos.AssemblyInfo.cs
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\SomaDeParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\SomaDeParesConsecutivos.dll
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\refint\SomaDeParesConsecutivos.dll
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\SomaDeParesConsecutivos.pdb
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\SomaDeParesConsecutivos.genruntimeconfig.cache
+C:\Temp\Projetos\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net8.0\ref\SomaDeParesConsecutivos.dll

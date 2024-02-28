@@ -1,0 +1,14 @@
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.exe
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.deps.json
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.runtimeconfig.json
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.dll
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.pdb
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfo.cs
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.dll
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\refint\AreaCirculo.dll
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.pdb
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.genruntimeconfig.cache
+C:\Temp\Projetos\AreaCirculo\AreaCirculo\obj\Debug\net8.0\ref\AreaCirculo.dll
